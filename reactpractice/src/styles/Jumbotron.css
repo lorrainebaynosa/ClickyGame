@@ -1,0 +1,32 @@
+.header {
+    background: darkgray;
+    height: 200px;
+  }
+  
+.header h1 {
+    margin: 0;
+    padding-top: 75px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+  }
+/* We use this name convention because h1 is a child of header */
+.header h2 {
+    margin: 0;
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    font-size: 1rem;
+  }
+
+  /* function Jumbotron() {
+    return (
+      <header className="header">
+        <h1 classname="header h1">Clicky Game!</h1>
+        <h2 classname="header h2">Click on an image to earn points, but don't click on any more than once!</h2>
+      </header>
+    );
+  } */
+
+    
+  
