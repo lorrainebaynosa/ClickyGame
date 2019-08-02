@@ -1,20 +1,9 @@
 import React from 'react';
-import Navbar from "./components/NavBar";
-import Jumbotron from "./components/Jumbotron";
-import ImageCard from "./components/ImageCard";
-import Wrapper from "/.components/Wrapper";
+import Game from "./components/Game";
 
-
-
-function App() {
-  return (
-    <div>
-      <Navbar />
-      <Jumbotron />
-      <ImageCard />
-      <Wrapper />
-    </div>
-  );
+function App () {
+  return <Game />;
 }
 
 export default App;
+
