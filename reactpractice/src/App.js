@@ -1,7 +1,8 @@
 import React from 'react';
-import Navbar from "./components/Navbar";
+import Navbar from "./components/NavBar";
 import Jumbotron from "./components/Jumbotron";
-import Counter from "./components/Counter";
+import ImageCard from "./components/ImageCard";
+import Wrapper from "/.components/Wrapper";
 
 
 
@@ -10,7 +11,8 @@ function App() {
     <div>
       <Navbar />
       <Jumbotron />
-      <Counter />
+      <ImageCard />
+      <Wrapper />
     </div>
   );
 }

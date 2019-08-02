@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Sailboats",
+        "image": "https://images.pexels.com/photos/2265876/pexels-photo-2265876.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 2,
+        "name": "OceanView",
+        "image": "https://images.pexels.com/photos/2253821/pexels-photo-2253821.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 3,
+        "name": "VW",
+        "image": "https://images.pexels.com/photos/2101528/pexels-photo-2101528.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 4,
+        "name": "Amalifi Coast",
+        "image": "https://images.pexels.com/photos/373575/pexels-photo-373575.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    },
+    {
+        "id": 5,
+        "name": "Rome's Trevi Fountain",
+        "image": "https://images.pexels.com/photos/2031967/pexels-photo-2031967.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 6,
+        "name": "Santorini",
+        "image": "https://images.pexels.com/photos/161815/santorini-oia-greece-water-161815.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 7,
+        "name": "Croatia",
+        "image": "https://images.pexels.com/photos/2710126/pexels-photo-2710126.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 8,
+        "name": "Venice",
+        "image": "https://images.pexels.com/photos/161850/venice-grand-canal-water-boats-161850.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 9,
+        "name": "Eiffel Tower",
+        "image": "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 10,
+        "name": "Koala in Australia",
+        "image": "https://images.pexels.com/photos/2122408/pexels-photo-2122408.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 11,
+        "name": "Philippines",
+        "image": "https://images.pexels.com/photos/2413238/pexels-photo-2413238.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 12,
+        "name": "Italian Pizza",
+        "image": "https://images.pexels.com/photos/2233348/pexels-photo-2233348.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+]

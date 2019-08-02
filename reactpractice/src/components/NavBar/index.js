@@ -6,6 +6,7 @@ import "../styles/Navbar.css";
     return (
         <nav className="navbar sticky-top navbar-light bg-light">
         <a className="ClickyGame" href="/">Clicky Game</a>
+        <a className=
         <a className="Score" href="/">Score: {count} </a> 
         |
         <a className="TopScore" href="/">Top Score: {topScore}</a>
