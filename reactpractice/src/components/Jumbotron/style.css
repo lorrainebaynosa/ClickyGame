@@ -1,11 +1,11 @@
 .header {
-    background: darkgray;
+    background:blue;
     height: 200px;
   }
   
 .header h1 {
     margin: 0;
-    padding-top: 75px;
+    padding-top: 25px;
     text-align: center;
     color: white;
     font-size: 3rem;
@@ -13,10 +13,10 @@
 /* We use this name convention because h1 is a child of header */
 .header h2 {
     margin: 0;
-    padding-top: 10px;
+    padding-top: 0px;
     text-align: center;
     color: white;
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 
   /* function Jumbotron() {
