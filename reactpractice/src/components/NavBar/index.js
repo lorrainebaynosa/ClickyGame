@@ -1,17 +1,19 @@
 import React from "react";
 import "./style.css";
 
-function GameReset (props) {
+function NavBar({message, score, topScore}) {
   return (
-    <nav className="navbar sticky-top navbar-light bg-light">
+    <nav className="navbar sticky-top navbar-light bg-dark">
       <a className="ClickyGame" href="/">Clicky Game</a>
-      <a className="Intro" href="/">Click an image to begin!</a>
-      <a className="Score" href="/">Score:0 | Top Score: 0 </a>
+      <a className="Message" href="/">{message}</a>
+      <a className="Score" href="/">Score: {score} | Top Score: {topScore}</a>
     </nav>
   );
 }
 
-export default GameReset;
+export default NavBar;
+
+
 
 // function Title(props) {
 //   return <h1 className="title">{props.children}</h1>;
