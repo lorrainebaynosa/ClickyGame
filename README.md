@@ -1,6 +1,6 @@
 # ClickyGame ReactApp
 
-1. The ClickGame uses the Create React App to render different images pertaining to international travel destinations to the screen. 
+1. The ClickGame uses the Create React App to render different images pertaining to international travel destinations. 
 2. At the start of the game, the message rendered in the NavBar is "Click an image to begin!" and the Score and Top Score are equal to zero:
 
 
@@ -26,10 +26,6 @@
    c. TopScore is updated if necessary.
 
    d. the images rendered to the page are shuffled in a random order.
-
-
-
-
 
 
 
