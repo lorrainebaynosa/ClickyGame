@@ -3,6 +3,14 @@
 1. The ClickGame uses the Create React App to render different images pertaining to international travel destinations to the screen. 
 2. At the start of the game, the message rendered in the NavBar is "Click an image to begin!" and the Score and Top Score are equal to zero.
 
+<img src="assets/images/GameStart.jpg" width="800">
+![](assets/images/GameStart.jpg)
+
+
+<img src="images/bamazon_products_original_inventory.jpg" width="800">
+![](images/bamazon_products_original_inventory.jpg)
+
+
 <img src="public/assets/images/GameStart.jpg" width="800">
 ![](public/assets/images/GameStart.jpg)
 
