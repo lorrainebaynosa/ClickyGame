@@ -1,6 +1,7 @@
 .header {
-    background:blue;
+    background: blue;
     padding-bottom: 20px;
+    font-weight: bold;
   }
   
 .header h1 {
@@ -9,6 +10,7 @@
     text-align: center;
     color: white;
     font-size: 3rem;
+    font-weight: bold;
   }
 /* We use this name convention because h1 is a child of header */
 .header h2 {
@@ -17,13 +19,6 @@
     text-align: center;
     color: white;
     font-size: 1.5rem;
+    font-weight: bold;
   }
 
-  /* function Jumbotron() {
-    return (
-      <header className="header">
-        <h1 classname="header h1">Clicky Game!</h1>
-        <h2 classname="header h2">Click on an image to earn points, but don't click on any more than once!</h2>
-      </header>
-    );
-  } */
