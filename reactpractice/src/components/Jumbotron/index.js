@@ -2,10 +2,6 @@ import React from "react";
 import "./style.css";
 
 
-// REVIEW OF CONCEPTS:
-// By importing the Header.css file, it is added to the DOM whenever this component loads
-// must convert everying in css to string and camelCase (instead of dashes)
-// https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822
 
 function Jumbotron() {
   return (

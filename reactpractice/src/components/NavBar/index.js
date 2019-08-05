@@ -15,18 +15,3 @@ export default NavBar;
 
 
 
-// function Title(props) {
-//   return <h1 className="title">{props.children}</h1>;
-// }
-// {/* <Title>Friends List</Title> */}
-
-// function Navbar() {
-//   return (
-//     <nav style={styles.navbarStyle} className="navbar">
-//       <a href="/">Welcome</a>
-//     </nav>
-//   );
-// }
-
-// export default Navbar;
-/* <Navbar /> */

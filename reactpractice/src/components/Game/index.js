@@ -1,8 +1,3 @@
-// 1. Render different images (of your choice) to the screen. Each image should listen for click events.
-// 2. keep track of the user's score. The user's score should be incremented when clicking an image for the first time. The user's score should be reset to 0 if they click the same image more than once.
-// 3. Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
-// 4. Once the user's score is reset after an incorrect guess, the game should restart.
-
 import React from "react";
 import NavBar from "../NavBar";
 import Jumbotron from "../Jumbotron";
@@ -69,8 +64,8 @@ class Game extends React.Component {
   renderImages = () => {
     const shuffledImages = shuffle([...this.state.images]) || [];
 
-    return shuffledImages.map(image => 
-       <Image
+    return shuffledImages.map(image =>
+      <Image
         key={image.id}
         id={image.id}
         alt={image.name}
@@ -83,8 +78,8 @@ class Game extends React.Component {
   }
 
   render() {
-    const {navBarMessage, score, topScore} = this.state;
- 
+    const { navBarMessage, score, topScore } = this.state;
+
     return (
       <div>
         <NavBar
